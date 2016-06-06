@@ -1,4 +1,5 @@
+*.iml
 .idea
 *.pyc
-test/
-README.rst
+test_file/
+pcap_parser.egg-info/
